@@ -1,0 +1,19 @@
+{
+  "name": "wenyi",
+  "version": "1.0.0",
+  "description": "html template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "template"
+  },
+  "keywords": [
+    "html",
+    "template"
+  ],
+  "author": "wenyizhou",
+  "license": "ISC"
+}
